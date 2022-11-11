@@ -1,0 +1,3 @@
+merge conflict 1
+new line in mergec
+one more line in mergec
