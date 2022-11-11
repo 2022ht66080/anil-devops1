@@ -1,1 +1,1 @@
-merge file in development branch
+new merge file in development branch
