@@ -1,1 +1,2 @@
 Force push and reset test
+new line for reset test
